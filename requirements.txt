@@ -1,0 +1,9 @@
+Flask
+pymongo
+spacy
+pycorenlp
+textblob
+nltk
+langdetect
+xlsxwriter
+sklearn
